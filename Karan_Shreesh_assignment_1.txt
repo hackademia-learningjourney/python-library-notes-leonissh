@@ -1,0 +1,23 @@
+Pandas:
+-Provides data structures like DataFrame for efficient data manipulation and analysis.
+-Essential for tasks like data cleaning, transformation, and exploration.
+
+NumPy:
+-A core library for numerical computations in Python, offering support for large multi-dimensional arrays and matrices.
+-It is widely used for mathematical operations and serves as the foundation for many other scientific libraries.
+
+TensorFlow:
+-A comprehensive open-source platform for building and deploying machine learning models, particularly deep learning.
+-Developed by Google, it supports both high-level and low-level API access.
+
+Keras:
+-A high-level neural network API that simplifies the creation of deep learning models, running on top of TensorFlow.
+-Known for its ease of use, modularity, and quick prototyping capabilities.
+
+Scikit-learn (sklearn):
+-A robust machine learning library in Python, offering simple and efficient tools for data mining and analysis.
+-Includes implementations of a wide range of algorithms for classification, regression, clustering, and more.
+
+PyTorch:
+-An open-source machine learning library developed by Facebook, known for its flexibility and dynamic computational graph.
+-Favored for research and production in deep learning applications.
